@@ -1,4 +1,4 @@
-#BCG-data-science-Job-Sim
+# BCG-data-science-Job-Sim
 
 • Completed a customer churn analysis for a company with over 14,000 clients, demonstrating advanced data
 analytics skills, identifying essential client data and outlining a strategic investigation approach.
