@@ -1,12 +1,8 @@
 # BCG-data-science-Job-Sim
 
-• Completed a customer churn analysis for a company with over 14,000 clients, demonstrating advanced data
-analytics skills, identifying essential client data and outlining a strategic investigation approach.
+- Conducted an end-to-end customer churn analysis for a company with over 14,000 clients, displaying business analytics skills.
+- Performed exploratory data analysis, data visualization, feature engineering, data transformations, and data modeling using matplotlib, Pandas, and Scikit-Learn and automated the testing using CI/CD pipeline via GitHub actions.
+- Built a predictive model that obtained an overall 90% accuracy in forecasting customer churn and key performance indicators.
+- Delivered a concise executive summary, and provided actionable insights for informed decision-making on business objectives.
 
-• Conducted efficient data analysis using Python, including Pandas and NumPy and employed data visualization
-tools like matplotlib for insightful trend interpretation over 50 features.
-
-• Developed a predictive model which obtained an overall 90% accuracy rate in predicting customer churn.
-
-• Delivered a concise executive summary, provided actionable insights for informed decision-making.
-
+The [images](https://github.com/RakeshJV2000/BCG-data-science-Job-Sim/tree/main/images) folder contains images of all the plots from EDS
